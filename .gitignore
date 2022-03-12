@@ -139,8 +139,9 @@ cython_debug/
 
 
 logs
-data
 config.ini
 .vscode
 *.json
 .python-version
+ipynb
+data/scrap
